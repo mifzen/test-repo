@@ -1,4 +1,5 @@
 # test-repo
-test repo
-test commit
-test push
+test repo \n
+test commit \n
+test push \n
+test push again \n
